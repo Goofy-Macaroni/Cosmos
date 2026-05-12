@@ -1,0 +1,298 @@
+Build a modern, visually impressive space exploration and learning web app called “Cosmos”.
+The app should feel like a premium futuristic science experience with smooth animations, interactive elements, and clean UI design. It should work well on both desktop and mobile.
+Use React with a modern component structure and responsive design. Prioritize beautiful visuals, smooth animations, and polished user experience.
+APP THEME:
+
+
+Dark outer-space aesthetic
+
+
+Animated star background
+
+
+Neon blue/purple glowing UI accents
+
+
+Glassmorphism panels
+
+
+Smooth transitions and hover effects
+
+
+Modern futuristic typography
+
+
+MAIN FEATURES:
+
+
+Interactive Solar System
+
+
+
+
+Display the Sun and all 8 planets
+
+
+Animate planets orbiting around the Sun
+
+
+Clicking a planet opens a detailed information panel
+
+
+Each planet should include:
+
+
+Description
+
+
+Distance from Sun
+
+
+Gravity
+
+
+Temperature
+
+
+Moons
+
+
+Fun facts
+
+
+
+
+Add smooth animations and glowing effects
+
+
+
+
+Space Facts Section
+
+
+
+
+Display random interesting space facts
+
+
+Include a “New Fact” button
+
+
+Facts should appear in animated cards
+
+
+Add at least 30 unique facts
+
+
+
+
+Black Hole Section
+
+
+
+
+Create an animated black hole visualization
+
+
+Explain:
+
+
+Event horizon
+
+
+Singularity
+
+
+Gravity
+
+
+Time dilation
+
+
+
+
+Include interactive hover effects and educational visuals
+
+
+
+
+Space Quiz
+
+
+
+
+Multiple-choice quiz system
+
+
+Randomized questions
+
+
+Score tracking
+
+
+Correct/incorrect feedback animations
+
+
+Final results screen
+
+
+Restart quiz option
+
+
+
+
+Loading Screen
+Create a cinematic loading screen before the app loads:
+
+
+
+
+Dark space background
+
+
+Animated stars
+
+
+Large animated Saturn in the center
+
+
+Saturn’s rings rotate smoothly as the loading animation
+
+
+Random space facts appear while loading
+
+
+“Loading Cosmos...” text underneath
+
+
+Smooth fade transitions
+
+
+
+
+Navigation
+Add a responsive top navbar with:
+
+
+
+
+Home
+
+
+Solar System
+
+
+Black Holes
+
+
+Space Facts
+
+
+Quiz
+
+
+About
+
+
+
+
+Background Effects
+
+
+
+
+Twinkling stars
+
+
+Floating particles
+
+
+Subtle parallax movement
+
+
+Smooth scrolling animations
+
+
+
+
+Mobile Support
+
+
+
+
+Fully responsive design
+
+
+Mobile-friendly layout
+
+
+Touch interactions supported
+
+
+
+
+UI / UX
+
+
+
+
+Smooth page transitions
+
+
+Modern cards and panels
+
+
+Animated buttons
+
+
+Subtle shadows and glow effects
+
+
+Clean readable layout
+
+
+
+
+Extra Features
+If possible, also include:
+
+
+
+
+Live clock
+
+
+Daily featured planet
+
+
+Search bar for planets/topics
+
+
+Ambient background music toggle
+
+
+Dark/light mode toggle
+
+
+TECHNICAL REQUIREMENTS:
+
+
+Use React
+
+
+Organize code into reusable components
+
+
+Keep code clean and modular
+
+
+Optimize for smooth performance
+
+
+Use modern frontend practices
+
+
+Include comments for important sections
+
+
+The final result should feel like a polished futuristic space encyclopedia mixed with an interactive science museum experience.
