@@ -1,0 +1,222 @@
+Add entirely new sections and features to the existing Cosmos app without redesigning or modifying the current Solar System, Black Holes, Space Facts, or Quiz sections. Keep the existing UI style, animations, and futuristic theme consistent across all new content.
+
+NEW SECTIONS TO ADD:
+
+GALAXIES SECTION
+Create a brand-new “Galaxies” page.
+
+Features:
+
+Interactive galaxy cards
+Animated galaxy visuals
+Information panels for famous galaxies
+
+Include:
+
+Milky Way
+Andromeda
+Whirlpool Galaxy
+Sombrero Galaxy
+Black Eye Galaxy
+
+Each galaxy page should include:
+
+Distance from Earth
+Galaxy type
+Number of stars
+Size comparison
+Interesting facts
+Animated rotating galaxy effect
+
+Add smooth transitions and glowing visuals.
+
+NEBULAS SECTION
+Create a dedicated Nebulas section with beautiful visuals.
+
+Include famous nebulas:
+
+Orion Nebula
+Crab Nebula
+Eagle Nebula
+Helix Nebula
+Ring Nebula
+
+Features:
+
+Animated glowing clouds
+Particle effects
+Colorful cosmic backgrounds
+Educational info cards
+Hover animations
+
+Each nebula should have:
+
+Discovery information
+Type of nebula
+Location
+Fun facts
+Formation explanation
+SPACE MISSIONS SECTION
+Add a section focused on famous space missions.
+
+Include:
+
+Apollo 11
+Voyager 1 & 2
+Chandrayaan missions
+Curiosity Rover
+Perseverance Rover
+James Webb Space Telescope
+
+Each mission should include:
+
+Mission image
+Launch date
+Mission goals
+Achievements
+Current status
+Timeline animation
+
+Add:
+
+Horizontal timeline scrolling
+Animated mission cards
+Rocket launch effects
+CONSTELLATIONS SECTION
+Add an interactive star constellation explorer.
+
+Features:
+
+Dark star-map background
+Connected constellation lines
+Hoverable stars
+Clickable constellations
+
+Include:
+
+Orion
+Ursa Major
+Cassiopeia
+Leo
+Scorpius
+
+When clicked:
+
+Show mythology/story
+Best viewing months
+Brightest stars
+Fun facts
+ASTRONAUTS SECTION
+Create a section dedicated to famous astronauts and space pioneers.
+
+Include:
+
+Neil Armstrong
+Yuri Gagarin
+Kalpana Chawla
+Sunita Williams
+Buzz Aldrin
+
+Each profile should contain:
+
+Portrait/image
+Nationality
+Missions
+Achievements
+Quotes
+Timeline
+
+Use futuristic profile cards with hover glow effects.
+
+SPACE TECHNOLOGY SECTION
+Add a section showing modern space technology.
+
+Include:
+
+Rockets
+Satellites
+Space stations
+Telescopes
+Space suits
+
+Features:
+
+Interactive tech cards
+Expandable information panels
+Animated blueprints
+Rotating 3D-style diagrams if possible
+EXOPLANETS SECTION
+Create an exoplanet explorer.
+
+Features:
+
+Procedurally generated-looking planets
+Orbit animations
+Habitability indicators
+
+Each exoplanet should include:
+
+Distance from Earth
+Possible habitability
+Star system
+Discovery date
+Temperature estimate
+
+Add “Could Life Exist?” indicators.
+
+LIVE SPACE DATA SECTION
+Add a real-time style dashboard.
+
+Include:
+
+Current UTC time
+ISS information
+NASA image of the day placeholder
+Space statistics
+Earth rotation animation
+
+Optional:
+
+Fake live telemetry animations for immersion
+SPACE GLOSSARY SECTION
+Create a searchable glossary for space terms.
+
+Include terms like:
+
+Supernova
+Pulsar
+Quasar
+Event Horizon
+Light Year
+Dark Matter
+
+Features:
+
+Search bar
+Animated term cards
+Expandable explanations
+CINEMATIC DEEP SPACE PAGE
+Add a visually immersive page focused purely on exploration visuals.
+
+Features:
+
+Massive animated stars
+Floating planets
+Nebula clouds
+Parallax scrolling
+Ambient animations
+Interactive camera movement
+
+This page should feel like drifting through deep space.
+
+GLOBAL REQUIREMENTS:
+
+Do not redesign existing sections
+Match the current Cosmos aesthetic perfectly
+Use the same color palette and typography
+Keep animations smooth and lightweight
+Maintain responsive mobile support
+Add smooth page transitions for all new sections
+Preserve current performance and layout structure
+
+The new additions should make the app feel significantly larger, richer, and more complete without replacing or rebuilding the existing core sections.
